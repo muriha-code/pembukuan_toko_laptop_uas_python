@@ -73,13 +73,11 @@ pembukuan_toko_laptop_uas_python
    ```bash
     pip install fpdf2
     pip install openpyxl
-    pip install pillow
     pip install pyinstaller
    ```
     Keterangan library yang digunakan
     **fpdf2**        → Membuat nota / laporan ke PDF  
     **openpyxl**     → Ekspor laporan ke Excel  
-    **pillow**       → Library gambar (dipakai fpdf2 untuk font dan image)  
     **pyinstaller**  → Membuat file `.exe` agar program bisa dijalankan tanpa Python
     
 
