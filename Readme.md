@@ -76,6 +76,7 @@ pembukuan_toko_laptop_uas_python
     pip install pyinstaller
    ```
     Keterangan library yang digunakan
+    
     **fpdf2**        → Membuat nota / laporan ke PDF  
     **openpyxl**     → Ekspor laporan ke Excel  
     **pyinstaller**  → Membuat file `.exe` agar program bisa dijalankan tanpa Python
